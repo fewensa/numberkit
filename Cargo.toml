@@ -1,0 +1,18 @@
+[package]
+name = "numberkit"
+version = "0.1.0"
+authors = ["fewensa <fewensa@protonmail.com>"]
+description = "Rust number kit"
+repository = "https://github.com/fewensa/numberkit"
+license = "MIT"
+keywords = ["toolkit", "number"]
+include = [
+  "Cargo.toml",
+  "**/*.rs",
+  "README.md",
+  "LICENSE"
+]
+readme = "README.md"
+edition = "2018"
+
+[dependencies]
